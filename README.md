@@ -4,5 +4,4 @@
 
 - 🏢 I'm currently working at **Asia Quest Indonesia**
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.yaml`, `.vue`
-- 🌱 I’m currently learning Kubernetes, Continous Integration;
 - 📫 How to reach me: naufalafif58@gmail.com;

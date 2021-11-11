@@ -3,4 +3,4 @@
 #### I'm a Software Engineer.
 
 - 🏢 I'm currently working at **Hysn Technologies / Practical DevSecOps**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.yaml`, `.vue`
+- ⚙️ I use daily: python, django, fastapi, vue, react, docker, kubernetes, gcp, etc

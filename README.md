@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 #### I'm a Software Engineer.
-
-- 🏢 I'm currently working at  **Hysn Technologies / Practical DevSecOps**
 - ⚙️ I use daily : 
 <img src="icons/python.svg"  width='20px'/> python, 
 <img src="icons/django.svg"  width='20px'/> django,

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm a Software Engineer.
-#### I'm currently building free online learning platform called <img src="https://cloudtutor.io/favicon.ico"  width="20px" height="20px"> Cloudtutor.io.
+#### I'm currently building free online learning platform Cloudtutor.io <img src="https://cloudtutor.io/favicon.ico"  width="20px" height="20px">
 
 - ⚙️ I use daily : 
 <img src="icons/python.svg"  width='20px'/> python, 
